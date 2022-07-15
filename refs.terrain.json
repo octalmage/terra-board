@@ -1,0 +1,18 @@
+{
+  "testnet": {
+    "board": {
+      "codeId": "2124",
+      "contractAddresses": {
+        "default": "terra16waf70ct0mk45prk78qxzyqesjqxr4en07t5m5wm6v62ec0rua5slj8mz4"
+      }
+    }
+  },
+  "localterra": {
+    "board": {
+      "codeId": "38",
+      "contractAddresses": {
+        "default": "terra1q6vmqprwvay5p3l0d763v50ufunt7fwfnfwp85wne5xan4meeqpsfgkkk6"
+      }
+    }
+  }
+}
